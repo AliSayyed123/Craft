@@ -6,7 +6,7 @@ This is a responsive landing page for Craft, an app for notes, tasks, and organi
 -Sections for app features, user cases, and testimonials.
 -A call-to-action area with buttons for trying the app or viewing pricing.
 -A clean footer with links and social media icons.
--
+
 Everything is fully responsive, using Flexbox, CSS Grid, and media queries to adapt to desktop, tablet, and mobile screens.
 
 
